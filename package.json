@@ -1,0 +1,12 @@
+{
+  "name": "climateassured-x402-examples",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Unpaid 402 demos for ClimateAssured agent APIs. Does not spend USDC.",
+  "scripts": {
+    "show-402": "node show-402.mjs",
+    "curl-demo": "bash curl-402-demo.sh"
+  },
+  "engines": { "node": ">=18" }
+}
