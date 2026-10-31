@@ -15,6 +15,11 @@ These files live on the ClimateAssured work box. They are **not** published to G
 Receive address (PAY_TO): `0x56E79118115920deB8310E8Cfaae460Ac650AA46`  
 Free human checkers: https://climateassured.com/am-i-covered/ · https://climateassured.com/au/am-i-covered/
 
+## Verified listings
+
+- [SB 253 Coverage Check on PayAPI Market](https://payapi.market/api/sb-253-coverage-check-california-climate-disclosure)
+- [Australia AASB S2 Coverage Check on PayAPI Market](https://payapi.market/api/australia-climate-disclosure-coverage-check-aasb-s2)
+
 ## What’s in this folder
 
 | File | What it does | Spends USDC? |
